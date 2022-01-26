@@ -3,6 +3,7 @@
 # importo los modulos necesarios
 # solo simple s
 # nuevo cambio david
+# meto cambio en simple.py
 
 import random
 from operator import itemgetter
