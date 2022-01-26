@@ -8,6 +8,7 @@
 #Permitir la multiplicación del circulo: Circulo * n debe devolver un nuevo objeto con el radio
 #multiplicado por n. No permitir la multiplicación por números <= 0
 #solo clases
+# probando, solo actualizo clases
 
 import matplotlib.pyplot as plt
 import math
