@@ -1,6 +1,7 @@
 # generar numeros aleatorios en un lista de diccionarios, considerando la edad de personas entre 1 y 100.
 # ordenar en descendiente la lista, e imprimir la persona de mayor edad y la de menor edad.
 # importo los modulos necesarios
+# solo simple
 
 import random
 from operator import itemgetter
