@@ -2,6 +2,7 @@
 # ordenar en descendiente la lista, e imprimir la persona de mayor edad y la de menor edad.
 # importo los modulos necesarios
 # solo simple s
+# nuevo cambio david
 
 import random
 from operator import itemgetter
