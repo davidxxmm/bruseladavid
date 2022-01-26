@@ -7,7 +7,7 @@
 #mostrar un error y no permitir modificación.
 #Permitir la multiplicación del circulo: Circulo * n debe devolver un nuevo objeto con el radio
 #multiplicado por n. No permitir la multiplicación por números <= 0
-#solo clases             xxx
+#solo clases
 
 import matplotlib.pyplot as plt
 import math

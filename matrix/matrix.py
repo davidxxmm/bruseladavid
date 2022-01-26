@@ -5,6 +5,8 @@
 # NOTA de David:  si hacemos una matriz de 5 x 5 con numeros aleatorios es casi imposible lograr encontrar 4 numeros
 # consecutivos. Con lo cual vamos a hacer esto: generamos una lista de 10 x 10, con numeros aletaorios entre el 0 y el 2
 # y por cada linea y columnas contamos cuantos numeros consecutivos encontramos.
+# solo matrix s
+# new change
 
 import numpy as np
 import doctest
